@@ -1,3 +1,12 @@
+## ⚠️ Newer Version Available
+
+This repository has been superseded by a newer version.
+
+Please use the latest version here:
+
+👉 [magicblock-labs/ephemeral-spl-token](https://github.com/magicblock-labs/ephemeral-spl-token)
+
+
 # Ephemeral Rollups SPL
 
 This repository is aimed at providing reference implementations for very standard actions done in and out of the MagicBlock's Ephemeral Rollups engine's runtime.
